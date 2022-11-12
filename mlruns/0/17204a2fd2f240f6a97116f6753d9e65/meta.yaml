@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlruns/0/17204a2fd2f240f6a97116f6753d9e65/artifacts
+deleted_time: 1668165743548
+end_time: 1668165094723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 17204a2fd2f240f6a97116f6753d9e65
+run_name: smiling-sponge-820
+run_uuid: 17204a2fd2f240f6a97116f6753d9e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668165094709
+status: 4
+tags: []
+user_id: Sandesh

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlruns/0/51220737d6bc4ef7a836ed49289b49eb/artifacts
+end_time: 1668165521287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51220737d6bc4ef7a836ed49289b49eb
+run_name: sedate-moose-834
+run_uuid: 51220737d6bc4ef7a836ed49289b49eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668165521272
+status: 3
+tags: []
+user_id: Sandesh

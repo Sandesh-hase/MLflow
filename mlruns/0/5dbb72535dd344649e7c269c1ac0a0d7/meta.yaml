@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlruns/0/5dbb72535dd344649e7c269c1ac0a0d7/artifacts
+end_time: 1668165403982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dbb72535dd344649e7c269c1ac0a0d7
+run_name: capable-panda-109
+run_uuid: 5dbb72535dd344649e7c269c1ac0a0d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668165403966
+status: 3
+tags: []
+user_id: Sandesh

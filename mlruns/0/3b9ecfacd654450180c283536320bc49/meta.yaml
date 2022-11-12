@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlruns/0/3b9ecfacd654450180c283536320bc49/artifacts
+end_time: 1668165168998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b9ecfacd654450180c283536320bc49
+run_name: blushing-moth-510
+run_uuid: 3b9ecfacd654450180c283536320bc49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668165168982
+status: 3
+tags: []
+user_id: Sandesh

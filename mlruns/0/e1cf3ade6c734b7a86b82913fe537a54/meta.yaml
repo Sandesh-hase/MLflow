@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlruns/0/e1cf3ade6c734b7a86b82913fe537a54/artifacts
+end_time: 1668166126999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1cf3ade6c734b7a86b82913fe537a54
+run_name: secretive-duck-423
+run_uuid: e1cf3ade6c734b7a86b82913fe537a54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668166126984
+status: 3
+tags: []
+user_id: Sandesh

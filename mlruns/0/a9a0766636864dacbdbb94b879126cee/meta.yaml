@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlruns/0/a9a0766636864dacbdbb94b879126cee/artifacts
+end_time: 1668166138457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9a0766636864dacbdbb94b879126cee
+run_name: burly-frog-288
+run_uuid: a9a0766636864dacbdbb94b879126cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668166138436
+status: 3
+tags: []
+user_id: Sandesh

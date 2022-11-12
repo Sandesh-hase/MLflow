@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlruns/0/899c204b3d22460eae476040afcfcced/artifacts
+deleted_time: 1668165743547
+end_time: 1668165151697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 899c204b3d22460eae476040afcfcced
+run_name: funny-foal-699
+run_uuid: 899c204b3d22460eae476040afcfcced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668165151685
+status: 4
+tags: []
+user_id: Sandesh
