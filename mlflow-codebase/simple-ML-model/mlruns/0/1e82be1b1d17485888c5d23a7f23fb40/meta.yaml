@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlflow-codebase/simple-ML-model/mlruns/0/1e82be1b1d17485888c5d23a7f23fb40/artifacts
+end_time: 1668242670758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e82be1b1d17485888c5d23a7f23fb40
+run_name: spiffy-shad-433
+run_uuid: 1e82be1b1d17485888c5d23a7f23fb40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668242670705
+status: 3
+tags: []
+user_id: Sandesh
