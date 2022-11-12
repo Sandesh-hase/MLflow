@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlflow-codebase/simple-ML-model/mlruns/0/771f705d24284748b3fc65ad0c52c0ce/artifacts
+end_time: 1668242872290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 771f705d24284748b3fc65ad0c52c0ce
+run_name: auspicious-carp-197
+run_uuid: 771f705d24284748b3fc65ad0c52c0ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668242872244
+status: 3
+tags: []
+user_id: Sandesh
