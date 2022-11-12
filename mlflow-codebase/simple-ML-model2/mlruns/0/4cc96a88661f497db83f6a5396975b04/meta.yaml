@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlflow-codebase/simple-ML-model2/mlruns/0/4cc96a88661f497db83f6a5396975b04/artifacts
+end_time: 1668245233388
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cc96a88661f497db83f6a5396975b04
+run_name: unleashed-pig-810
+run_uuid: 4cc96a88661f497db83f6a5396975b04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668245229037
+status: 3
+tags: []
+user_id: Sandesh

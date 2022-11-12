@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/iNeuron/MLflow/mlflow-codebase/simple-ML-model2/mlruns/0/936c3a4d058949b8846cac620fc41ee2/artifacts
+end_time: 1668245200666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 936c3a4d058949b8846cac620fc41ee2
+run_name: painted-foal-842
+run_uuid: 936c3a4d058949b8846cac620fc41ee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668245196757
+status: 3
+tags: []
+user_id: Sandesh
